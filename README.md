@@ -1,4 +1,4 @@
-# prettier
+# prettier config
 
 .prettierrc
 
