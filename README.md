@@ -15,7 +15,7 @@
     "endOfLine": "lf",
     "overrides": [
         {
-            "files": ["*.css", "*.scc", "*.less"],
+            "files": ["*.css", "*.scss", "*.less"],
             "options": {
                 "singleQuote": false
             }
