@@ -3,5 +3,4 @@ always need:
 .gitattributes
 .gitignore
 .npmrc
-.prettierignore
-.prettierrc
+
